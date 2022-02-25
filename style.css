@@ -1,0 +1,133 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.main-div{
+    background-color: #003140 ; 
+}
+#navid{
+    color: yellow;
+}
+
+
+/* Home will start here */
+
+
+.home_container{
+    margin-bottom: 5rem !important;
+}
+.social_sites_logos{
+    padding: 0px 4px;
+}
+
+
+/* About Me will starts here */
+
+
+.aboutme_container{
+    padding-top: 10rem !important;
+}
+.aboutme_container{
+    margin-bottom: 0rem !important;
+}
+
+.project_container{
+    padding-top: 100px !important;
+    margin-bottom: 120px !important;
+}
+
+
+/* Buttons for projects 1 */
+
+
+.project1_button_a1{
+    text-decoration: none !important;
+    color: white !important;
+}
+.project1_button2{
+    border-color: green;
+}
+.project1_button2:hover{
+    background-color: rgba(191, 245, 191, 0.438);
+}
+.project1_button_a2{
+    text-decoration: none !important;
+    color: green !important;
+}
+
+
+@media only screen and (min-width: 600px) {
+    .Education_container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-top: 10rem;
+        padding-bottom: 9rem;
+        }
+    table{
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 30px !important;
+        width: 60rem !important;
+        height: 20rem !important;
+    }
+    td{
+        text-align: center;
+    }
+    th{
+        font-size: 25px;
+        text-align: center;
+    } 
+}
+
+
+@media only screen and (min-width: 740px) and (max-width: 980px){
+    table{
+        width: 46rem !important;
+    }
+    .Edu_h1{
+        padding-top: 80px !important;
+    }
+    .contact_container{
+        padding-top: 10px !important;
+        padding-bottom: 30px !important;
+    }
+}
+
+
+@media only screen and (min-width: 596px) and (max-width: 739px){
+    table{
+        width: 36rem !important;
+    }
+}
+
+.Education_container{
+    padding-top: 3rem !important;
+}
+.Edu_h1{
+    padding-top: 100px;
+
+}
+
+
+/* contact will start here */
+.contact_inside{
+    padding-top: 20px;
+    margin-bottom: 60px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    
+}
+.contact_h3{
+    text-align: center;
+}
+
+.contact_container{
+    padding-top: 180px;
+    padding-bottom: 60px;
+}

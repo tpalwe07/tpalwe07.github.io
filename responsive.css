@@ -1,0 +1,27 @@
+.home_container{
+    margin-bottom: 0rem !important;
+    margin-right: -1rem !important;
+}
+.about_gif{
+    height: 300px;
+    width: 350px;
+}
+.aboutme_container{
+    padding-top: 5rem !important;
+}
+.aboutme_container{
+    margin-bottom: 0rem !important;
+}
+.project_h1{
+    padding-top: 2rem !important;
+}
+.project_container{
+    margin-bottom: 15px !important;
+    padding-top: 30px !important;
+}
+.Edu_h1{
+    padding-top: 80px;
+}
+.contact_container{
+    padding-top: 40px;
+}
