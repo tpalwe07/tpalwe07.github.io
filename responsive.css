@@ -1,27 +1,63 @@
+
+ul li a, .navMyName{
+    font-size: 0.8rem;
+}
+
+.navMyName{
+    letter-spacing: 0.2em;
+}
+
 .home_container{
     margin-bottom: 0rem !important;
     margin-right: -1rem !important;
 }
-.about_gif{
-    height: 300px;
-    width: 350px;
+
+.myName {
+    font-size: 2rem;
 }
+.about_gif{
+    height: 376px;
+    width: 420px;
+}
+
+.h3_about{
+    font-family: 'Oswald';
+    font-size: 2.5rem;
+  }
 .aboutme_container{
     padding-top: 5rem !important;
 }
 .aboutme_container{
     margin-bottom: 0rem !important;
 }
+
+.h3_projects{
+    font-family: 'Oswald';
+    font-size: 2.5rem;
+  }
 .project_h1{
-    padding-top: 2rem !important;
+    padding-top: 4.5rem !important;
 }
 .project_container{
     margin-bottom: 15px !important;
     padding-top: 30px !important;
 }
+
+.h3_Edu{
+    font-family: 'Oswald';
+    font-size: 2.5rem;
+  }
 .Edu_h1{
+    padding-top: 110px;
+}
+.h3_Contact{
+    font-family: 'Oswald';
+    font-size: 2rem;
+  }
+.contact_container{
     padding-top: 80px;
 }
-.contact_container{
-    padding-top: 40px;
-}
+
+.footer_font{
+    font-size: 15px;
+  }
