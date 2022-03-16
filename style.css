@@ -114,11 +114,11 @@ ul li a, .navMyName{
 .contact_h3 {
   text-align: center;
 }
-.gmail{
+.gmailto{
   color: rgb(131, 22, 204);
   text-decoration: none; 
 }
-.gmail:hover{
+.gmailto:hover{
   color: rgb(131, 7, 214);
   text-decoration:underline; 
 }
