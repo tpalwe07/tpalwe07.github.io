@@ -114,6 +114,14 @@ ul li a, .navMyName{
 .contact_h3 {
   text-align: center;
 }
+.gmail{
+  color: rgb(131, 22, 204);
+  text-decoration: none; 
+}
+.gmail:hover{
+  color: rgb(131, 7, 214);
+  text-decoration:underline; 
+}
 .h3_Contact{
   font-family: 'Oswald';
   font-size: 3rem;
